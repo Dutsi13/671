@@ -1,0 +1,4 @@
+aiogram==3.4.1
+aiosqlite==0.20.0
+kerykeion==2.1.18
+geopy==2.4.1
